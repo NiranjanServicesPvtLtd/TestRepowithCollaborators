@@ -1,1 +1,10 @@
-THis is a testing file to check from a collaborator
+# Test Repo with Collaborators
+
+This is a testing file to check from a collaborator
+
+Code added by Owner
+
+void add(a,b)
+{
+c=a+b;
+}
